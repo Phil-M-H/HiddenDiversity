@@ -9,8 +9,6 @@ Now for the brute force:
      
 The end result being it searches through every possible way to iterate through a list.
 
-This is wildly inefficient for obvious reasons, and writing this up I can see that this probably was even inefficient for a brute-force method.
-
 
 Why python?
 The algorithm is already so wildly inefficient, the effect the language would have isn't going to be that big of a deal.
