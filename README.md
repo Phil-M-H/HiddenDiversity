@@ -12,4 +12,4 @@ The end result being it searches through every possible way to iterate through a
 
 Why python?
 The algorithm is already so wildly inefficient, the effect the language would have isn't going to be that big of a deal.
-I believe the Big O efficiency is N!, so at that point changing to something like C could allow us to do n+1 in reasonable time, but just isn't worth the headache.
+The Big O efficiency is N!, so at that point changing to something like C could allow us to do n+1 in reasonable time, but just isn't worth the headache.
